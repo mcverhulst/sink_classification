@@ -5,6 +5,7 @@
 
 ### The tools
 * Python
+* TensorFlow
 * Keras
 * MobileNet V2
 
